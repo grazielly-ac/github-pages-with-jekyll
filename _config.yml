@@ -1,10 +1,13 @@
-title: Your awesome title
-author: GitHub User
+theme: minima
+title: Do mundo para o Brasil
+author: Grazielly Cunha
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  O mundo poderá ver o que os brasileiros tem desenvolvido através da nossa homepage.
+  Atividades sociais, turísticas, profissionais, tudo resumido em um só site. O Brasil é um país rico, com uma política pobre. 
+  Nós brasileiros "sambamos" (fazemos de tudo) para poder aprender e ter as mesmas oportunidades que outros países, mas a política não investe no que precisamos.
+  Além da economia ser comprometida pela corrupção, vidas também são comprometidas pelo impacto de pessoas gananciosas no governo.
+   
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
