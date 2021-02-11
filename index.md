@@ -1,10 +1,8 @@
-# Bem vindos ao Meu Blog! :dark_sunglasses:
+# Bem vindos ao Meu Blog! 
 
 Estou seguindo o tutorial do Github Pages para melhorar o uso do repositório do Github. 
 
 Como não tinha o costume de utilizar a ferramenta, estou passando pelo processo de aprendizagem e agradeço o Github por fornecerem esse tutorial.
-
-:brazil: :brazil: :brazil: :brazil:
 
 ## Conhecimentos
 
@@ -12,4 +10,5 @@ Como não tinha o costume de utilizar a ferramenta, estou passando pelo processo
 
 ### Redes sociais
 
-Não costumo fazer uso de redes sociais, mas meu Github será meu portfólio e meio de contato para contratações. :octocat: :octocat: :octocat:
+Não costumo fazer uso de redes sociais, mas meu Github será meu portfólio e meio de contato para contratações. 
+
